@@ -16,3 +16,9 @@
 .site-nav .page-link {
   color: #ffffff;
 }
+
+@include media-query($on-palm) {
+  .site-nav .page-link {
+    color: #212121;
+  }
+}
