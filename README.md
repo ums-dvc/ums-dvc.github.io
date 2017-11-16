@@ -83,7 +83,8 @@ To stop the server, press Ctrl + C and then type `y`, or just close the command 
   ---
   ```
 
-  Note: The layout has to be `page`.
+  Note: The layout has to be `page` or the name of a custom layout (see [Edit HTML Layout](#edit-html-layout)).
+
 3. Add the page content after the last line. If you're using Markdown, see [Markdown guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ### Make a New Post
@@ -102,6 +103,7 @@ To stop the server, press Ctrl + C and then type `y`, or just close the command 
   ```
 
   Note: The layout has to be `post`.
+  
 4. Add the post content after the last line. If you're using Markdown, see [Markdown guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 
@@ -129,4 +131,4 @@ To create your own page layout:
 
 ### Edit CSS Style
 
-Edit the file `\assets\main.scss`.
+Edit the file at `\assets\main.scss`.
