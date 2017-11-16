@@ -3,3 +3,16 @@
 ---
 
 @import "minima";
+
+.site-header {
+  background: #007550;
+  border-top: none;
+}
+
+.site-title, .site-title:visited {
+  color: #ffffff;
+}
+
+.site-nav .page-link {
+  color: #ffffff;
+}
