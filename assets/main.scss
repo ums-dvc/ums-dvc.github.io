@@ -15,6 +15,15 @@
 
 .site-nav .page-link {
   color: #ffffff;
+  padding: 10px, 10px;
+  margin: 0px, 0px;
+}
+
+.site-nav .page-link :active {
+  color: #ffffff;
+background-color: darkseagreen;
+color: black;
+
 }
 
 @include media-query($on-palm) {
@@ -22,19 +31,3 @@
     color: #212121;
   }
 }
-.site-header a:link, .site-header a:visited {
- background-color: transparent;
-color: white;
-outline-offset: 0px;
-//padding: 0px 10px;
-//margin: 0px, 5px;
-//border: 0px, 0px;
-text-align: center; 
-text-decoration: none;
-display: inline-block;
-}
-
-.site-header a:hover, .site-header a:active {
-background-color: darkseagreen;
-color: black;
-} 
