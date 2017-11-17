@@ -22,19 +22,19 @@
     color: #212121;
   }
 }
-.site-header a:link, .site-header a:visited {
+ .site-nav .page-link a:link, .site-nav .page-link a:visited {
  background-color: transparent;
 color: white;
-outline-offset: 0px;
-//padding: 0px 10px;
-//margin: 0px, 5px;
-//border: 0px, 0px;
+
+padding: 20px 10px;
+margin: 0px, 0px;
+border: 0px, 0px;
 text-align: center; 
 text-decoration: none;
 display: inline-block;
 }
 
-.site-header a:hover, .site-header a:active {
+.site-nav .page-link a:hover, .site-nav .page-link a:active {
 background-color: darkseagreen;
 color: black;
 } 
