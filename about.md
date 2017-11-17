@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What is Hyperloop?
+title: About
 permalink: /about/
 ---
 
