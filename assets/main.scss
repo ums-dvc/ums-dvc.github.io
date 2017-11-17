@@ -23,10 +23,15 @@
   }
 }
 
-a:active{
-    outline: 0;
-    text-decoration: none;
-    background_color: white;
-    transition-property: background-color, box-shadow, border, color, opacity,transform;
-    transition-duration: 0.3s;
+a:link, a:visited {
+ background-color: transparent;
+color: white;
+padding: 14px 25px;
+text-align: center; 
+text-decoration: none;
+display: inline-block;
 }
+
+a:hover, a:active {
+background-color: white;
+} 
