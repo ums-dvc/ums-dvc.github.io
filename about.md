@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: What is Hyperloop?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The Concepts
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Hyperloop is a new paradigm of high-speed transportation envisioned by Elon Musk in 2013. With a projected top speed of 760 mph, the Hyperloop is poised to revolutionize transportation by moving passengers between cities like Los Angeles and San Francisco in as little as 35 minutes.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Hyperloop pods will travel in evacuated tubes above the ground, diminishing the drag force of atmospheric air and enabling passenger and freight transportation at high speeds with low energy consumption.
