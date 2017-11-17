@@ -23,10 +23,10 @@
   }
 }
 
-a{
+a:active{
     outline: 0;
     text-decoration: none;
-    background_color: transparent;
+    background_color: white;
     transition-property: background-color, box-shadow, border, color, opacity,transform;
     transition-duration: 0.3s;
 }
