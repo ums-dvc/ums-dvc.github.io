@@ -22,4 +22,17 @@
     color: #212121;
   }
 }
+.site-header a:link, .site-header a:visited {
+ background-color: transparent;
+color: black;
+padding: 15px 15px;
+margin: 0px, 0px;
+border: 0px, 0px;
+text-align: center; 
+text-decoration: none;
+display: inline-block;
+}
 
+.site-header a:hover, .site-header a:active {
+background-color: darkseagreen;
+} 
