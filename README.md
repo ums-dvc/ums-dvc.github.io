@@ -23,13 +23,14 @@ This is the repository of UMS Hyperloop official website.
 
 ## Software Team
 
-**Lead**: Monica Noori Saghar
+**Lead**: Monica Noori Saghar ([@MonicaNS](http://github.com/MonicaNS))
 
-- Celik Berk Altingok
-- Diane Tobit
-- Fauzi Pradipta
-- Haruna Yamakawa
-- Nadya Djojosantoso
+- Celik Berk Altingok ([@cbaltingok98](http://github.com/cbaltingok98))
+- Diane Tobit ([@Diane27](http://github.com/Diane27))
+- Fauzi Pradipta ([@fauzipradipta](http://github.com/fauzipradipta))
+- Haruna Yamakawa ([@haru22](http://github.com/haru22))
+- Joseph Dongallo ([@jdongallo](http://github.com/jdongallo))
+- Nadya Djojosantoso ([@nadyafebi](http://github.com/nadyafebi))
 
 ## Installation
 
@@ -103,7 +104,7 @@ To stop the server, press Ctrl + C and then type `y`, or just close the command 
   ```
 
   Note: The layout has to be `post`.
-  
+
 4. Add the post content after the last line. If you're using Markdown, see [Markdown guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 
