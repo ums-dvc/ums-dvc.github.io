@@ -22,3 +22,11 @@
     color: #212121;
   }
 }
+
+a{
+    outline: 0;
+    text-decoration: none;
+    background_color: transparent;
+    transition-property: background-color, box-shadow, border, color, opacity,transform;
+    transition-duration: 0.3s;
+}
