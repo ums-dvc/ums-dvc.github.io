@@ -24,11 +24,11 @@
 }
 .site-header a:link, .site-header a:visited {
  background-color: transparent;
-color: black;
-
-padding: 0px 10px;
-margin: 0px, 5px;
-border: 0px, 0px;
+color: white;
+outline-offset: 0px;
+//padding: 0px 10px;
+//margin: 0px, 5px;
+//border: 0px, 0px;
 text-align: center; 
 text-decoration: none;
 display: inline-block;
@@ -36,4 +36,5 @@ display: inline-block;
 
 .site-header a:hover, .site-header a:active {
 background-color: darkseagreen;
+color: black;
 } 
